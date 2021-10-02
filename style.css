@@ -1,0 +1,32 @@
+body {
+	background: url('../Images/HY.jpg');
+	background-position: right;
+	background-attachment: right;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#container {
+    background-color: #1B4554;
+    width: 400px;
+    color: white;
+    padding: 20px;
+    font: 
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+}
+h2{
+    color: #e89746;
+    background-color: #851616;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+a  {
+color: #e89746;
+}
