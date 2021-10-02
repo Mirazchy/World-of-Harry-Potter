@@ -1,5 +1,5 @@
 body {
-	background: url('../Images/HY.jpg');
+	background: url(/Images/HY.jpg);
 	background-position: right;
 	background-attachment: right;
 	-webkit-background-size: cover; 
